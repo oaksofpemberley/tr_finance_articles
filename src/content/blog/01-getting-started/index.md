@@ -8,7 +8,7 @@ date: "2024-03-22"
 
 ## Install astro-micro
 
-Clone the [Astro Micro repository](https://github.com/trevortylerlee/astro-micro.git).
+Clone the [Track-Record.co Finance repository](https://github.com/trevortylerlee/astro-micro.git).
 
 ```sh
 git clone https://github.com/trevortylerlee/astro-micro.git my-astro-micro
@@ -38,8 +38,8 @@ To change the website metadata, edit `src/consts.ts`.
 // src/consts.ts
 
 export const SITE: Site = {
-  NAME: "Astro Micro",
-  DESCRIPTION: "Astro Micro is an accessible theme for Astro.",
+  NAME: "Track-Record.co Finance",
+  DESCRIPTION: "Track-Record.co Finance is an accessible theme for Astro.",
   EMAIL: "trevortylerlee@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
@@ -63,7 +63,7 @@ export const SITE: Site = {
 
 export const ABOUT: Metadata = {
   TITLE: "About",
-  DESCRIPTION: "Astro Micro is a fork of Astro Nano.",
+  DESCRIPTION: "Track-Record.co Finance is a fork of Astro Nano.",
 };
 ```
 
